@@ -1,0 +1,305 @@
+[
+    {
+        "addressLine1": "1457 W 1625 S",
+        "city": "Cedar City",
+        "state": "UT",
+        "zipCode": "84720",
+        "formattedAddress": "1457 W 1625 S, Unit E, Cedar City, UT 84720",
+        "addressLine2": "Unit E",
+        "county": "Iron",
+        "assessorID": "B-1386-0005-0000",
+        "legalDescription": "UNIT 5, CEDAR EDGE P.U.D., PHASE I; TOG W/ UND INT IN COMMON AREA",
+        "lotSize": 1394,
+        "propertyType": "Single Family",
+        "lastSaleDate": "2022-03-30T00:00:00.000Z",
+        "ownerOccupied": false,
+        "features": {},
+        "taxAssessment": {
+            "2023": {
+                "value": 135215
+            }
+        },
+        "propertyTaxes": {
+            "2023": {
+                "total": 1078
+            }
+        },
+        "owner": {
+            "names": [
+                "DAVID SCOTT JENISON",
+                "BETH JENISON PRISDILIA",
+                "THE P SCOTT & PRISCILLA B JENISON T"
+            ],
+            "mailingAddress": {
+                "id": "5285-W-3200-S,-Hurricane,-UT-84737",
+                "formattedAddress": "5285 W 3200 S, Hurricane, UT 84737",
+                "addressLine1": "5285 W 3200 S",
+                "city": "Hurricane",
+                "state": "UT",
+                "zipCode": "84737"
+            }
+        },
+        "id": "1457-W-1625-S,-Unit-E,-Cedar-City,-UT-84720",
+        "longitude": -113.081311,
+        "latitude": 37.648168
+    },
+    {
+        "addressLine1": "3326 Spangler Dr",
+        "city": "Lexington",
+        "state": "KY",
+        "zipCode": "40517",
+        "formattedAddress": "3326 Spangler Dr, Lexington, KY 40517",
+        "assessorID": "14192857",
+        "county": "Fayette",
+        "legalDescription": "B-596A KIRKLEVINGTON SOUTH LOT 8; BOOK: 3703 PAGE: 242",
+        "squareFootage": 2414,
+        "subdivision": "KIRKLEVINGTON SOUTH",
+        "yearBuilt": 1978,
+        "zoning": "R-3",
+        "bathrooms": 3,
+        "lotSize": 8281,
+        "propertyType": "Duplex-Triplex",
+        "lastSalePrice": 209000,
+        "lastSaleDate": "2019-10-01T00:00:00.000Z",
+        "bedrooms": 5,
+        "features": {
+            "architectureType": "Duplex",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Brick / Stone",
+            "fireplace": true,
+            "floorCount": 2,
+            "heating": true,
+            "heatingType": "Central"
+        },
+        "taxAssessment": {
+            "2019": {
+                "value": 167000
+            },
+            "2022": {
+                "value": 216700
+            }
+        },
+        "propertyTaxes": {
+            "2019": {
+                "total": 2133
+            },
+            "2022": {
+                "total": 2768
+            }
+        },
+        "owner": {
+            "names": [
+                "HOLLENBACK HOMES LLC"
+            ],
+            "mailingAddress": {
+                "id": "195-Roaring-Springs-Ln,-Midway,-KY-40347",
+                "addressLine1": "195 Roaring Springs Ln",
+                "city": "Midway",
+                "state": "KY",
+                "zipCode": "40347"
+            }
+        },
+        "id": "3326-Spangler-Dr,-Lexington,-KY-40517",
+        "longitude": -84.502713,
+        "latitude": 37.984493
+    },
+    {
+        "addressLine1": "292 Swaying Pine Ct",
+        "city": "Crestview",
+        "state": "FL",
+        "zipCode": "32539",
+        "formattedAddress": "292 Swaying Pine Ct, Crestview, FL 32539",
+        "assessorID": "28-3N-23-1020-000C-0960",
+        "bedrooms": 3,
+        "county": "Okaloosa",
+        "legalDescription": "ROLLING PINES T/H LOT 96 BLK C",
+        "ownerOccupied": false,
+        "squareFootage": 1356,
+        "subdivision": "ROLLING PINES T/H",
+        "yearBuilt": 2007,
+        "bathrooms": 2,
+        "lotSize": 1944,
+        "propertyType": "Single Family",
+        "lastSalePrice": 182500,
+        "lastSaleDate": "2022-10-18T00:00:00.000Z",
+        "features": {
+            "architectureType": "Condo / Apartment",
+            "cooling": true,
+            "coolingType": "Central",
+            "exteriorType": "Aluminum / Vinyl Siding",
+            "floorCount": 2,
+            "garage": true,
+            "garageType": "Garage",
+            "heating": true,
+            "heatingType": "Forced Air",
+            "roofType": "Composition Shingle",
+            "unitCount": 1
+        },
+        "taxAssessment": {
+            "2020": {
+                "value": 91946,
+                "land": 15000,
+                "improvements": 76946
+            },
+            "2021": {
+                "value": 93233
+            },
+            "2022": {
+                "value": 96030
+            },
+            "2023": {
+                "value": 153520,
+                "land": 20000,
+                "improvements": 133520
+            }
+        },
+        "propertyTaxes": {
+            "2020": {
+                "total": 857
+            },
+            "2022": {
+                "total": 889
+            },
+            "2023": {
+                "total": 2484
+            }
+        },
+        "owner": {
+            "names": [
+                "Deshawn Anthony Williams",
+                "Khalilah Marie Williams"
+            ],
+            "mailingAddress": {
+                "id": "24027-139th-Pl-SE,-Kent,-WA-98042",
+                "formattedAddress": "24027 139th Pl SE, Kent, WA 98042",
+                "addressLine1": "24027 139th Pl SE",
+                "city": "Kent",
+                "state": "WA",
+                "zipCode": "98042"
+            }
+        },
+        "id": "292-Swaying-Pine-Ct,-Crestview,-FL-32539",
+        "longitude": -86.547856,
+        "latitude": 30.731462
+    },
+    {
+        "addressLine1": "1326 Knight Ave",
+        "city": "Flint",
+        "state": "MI",
+        "zipCode": "48503",
+        "formattedAddress": "1326 Knight Ave, Flint, MI 48503",
+        "bedrooms": 2,
+        "squareFootage": 760,
+        "yearBuilt": 1938,
+        "county": "Genesee",
+        "assessorID": "40-23-132-025",
+        "legalDescription": "CORUNNA HEIGHTS LOT 90",
+        "subdivision": "CORUNNA HEIGHTS",
+        "zoning": "A2",
+        "bathrooms": 1,
+        "lotSize": 5271,
+        "propertyType": "Single Family",
+        "lastSalePrice": 21700,
+        "lastSaleDate": "1987-05-01T00:00:00.000Z",
+        "features": {
+            "exteriorType": "Siding",
+            "floorCount": 1,
+            "heating": true,
+            "heatingType": "Forced Air",
+            "roomCount": 5
+        },
+        "taxAssessment": {
+            "2022": {
+                "value": 10700
+            }
+        },
+        "owner": {
+            "names": [
+                "AZIZ MASSAD",
+                "AZIZ DIANE MASSAD"
+            ],
+            "mailingAddress": {
+                "id": "1461-W-Maple-Ave,-Flint,-MI-48507",
+                "addressLine1": "1461 W Maple Ave",
+                "city": "Flint",
+                "state": "MI",
+                "zipCode": "48507"
+            }
+        },
+        "id": "1326-Knight-Ave,-Flint,-MI-48503",
+        "longitude": -83.726221,
+        "latitude": 43.000095
+    },
+    {
+        "addressLine1": "3311 W Sunset Ave",
+        "city": "Boise",
+        "state": "ID",
+        "zipCode": "83703",
+        "formattedAddress": "3311 W Sunset Ave, Boise, ID 83703",
+        "assessorID": "R5154250070",
+        "bedrooms": 3,
+        "county": "Ada",
+        "legalDescription": "LT 2 EXC E20 E50 LOT 3 BLK 2 ILO LARSON SUB #720/771",
+        "squareFootage": 1128,
+        "subdivision": "ILO LARSON SUB",
+        "yearBuilt": 1958,
+        "zoning": "R-1C",
+        "bathrooms": 1,
+        "lotSize": 10019,
+        "propertyType": "Single Family",
+        "features": {
+            "architectureType": "Conventional",
+            "cooling": true,
+            "coolingType": "Commercial",
+            "exteriorType": "Aluminum / Vinyl Siding",
+            "fireplace": true,
+            "floorCount": 1,
+            "garage": true,
+            "garageSpaces": 2,
+            "garageType": "Attached",
+            "heating": true,
+            "unitCount": 1
+        },
+        "taxAssessment": {
+            "2020": {
+                "value": 275200
+            },
+            "2022": {
+                "value": 391000,
+                "land": 253800,
+                "improvements": 137200
+            },
+            "2023": {
+                "value": 366800,
+                "land": 270000,
+                "improvements": 96800
+            }
+        },
+        "propertyTaxes": {
+            "2019": {
+                "total": 2140
+            },
+            "2022": {
+                "total": 3397
+            }
+        },
+        "ownerOccupied": false,
+        "owner": {
+            "names": [
+                "3311 SUNSET LLC"
+            ],
+            "mailingAddress": {
+                "id": "5489-N-Beethoven-Ave,-Meridian,-ID-83646",
+                "formattedAddress": "5489 N Beethoven Ave, Meridian, ID 83646",
+                "addressLine1": "5489 N Beethoven Ave",
+                "city": "Meridian",
+                "state": "ID",
+                "zipCode": "83646"
+            }
+        },
+        "id": "3311-W-Sunset-Ave,-Boise,-ID-83703",
+        "longitude": -116.230156,
+        "latitude": 43.643012
+    }
+]
