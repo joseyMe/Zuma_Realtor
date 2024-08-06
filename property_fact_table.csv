@@ -1,0 +1,6 @@
+id,location_id,sales_id,features_id,yearBuilt,assessorID,legalDescription,ownerOccupied,propertyType,taxAssessment,propertyTaxes,subdivision,zoning
+"16112-Crabbs-Branch-Way,-Apt-11,-Derwood,-MD-20855",0,0,0,0.0,unknown,unknown,0.0,unknown,unknown,unknown,unknown,
+"914-Collier-Rd-NW,-Apt-3330,-Atlanta,-GA-30318",1,0,1,0.0,unknown,unknown,0.0,Apartment,unknown,unknown,unknown,
+"11990-Prairie-Ln,-Lusby,-MD-20657",2,1,2,2006.0,01-093894,LT 19 SEC 1F CHES RANCH ESTS,1.0,Single Family,{'2022': {'value': 241767}},{'2022': {'total': 2512}},CHES RANCH ESTATES,R
+"1310-Ashville-Rd,-Leeds,-AL-35094",3,0,3,0.0,unknown,unknown,0.0,Single Family,unknown,unknown,unknown,
+"216-N-Apple-St,-Apt-1,-Hamburg,-PA-19526",4,0,0,0.0,unknown,unknown,0.0,unknown,unknown,unknown,unknown,

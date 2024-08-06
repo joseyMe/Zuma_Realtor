@@ -1,0 +1,6 @@
+location_id,addressLine1,city,state,zipCode,formattedAddress,county,longitude,latitude,addressLine2
+0,16112 Crabbs Branch Way,Derwood,MD,20855,"16112 Crabbs Branch Way, Apt 11, Derwood, MD 20855",Montgomery,-77.156909,39.118854,Apt 11
+1,914 Collier Rd NW,Atlanta,GA,30318,"914 Collier Rd NW, Apt 3330, Atlanta, GA 30318",Fulton,-84.415953,33.80869,Apt 3330
+2,11990 Prairie Ln,Lusby,MD,20657,"11990 Prairie Ln, Lusby, MD 20657",Calvert,-76.426234,38.356525,unknown
+3,1310 Ashville Rd,Leeds,AL,35094,"1310 Ashville Rd, Leeds, AL 35094",Jefferson,-86.535094,33.553497,unknown
+4,216 N Apple St,Hamburg,PA,19526,"216 N Apple St, Apt 1, Hamburg, PA 19526",Berks,-75.984661,40.559012,Apt 1

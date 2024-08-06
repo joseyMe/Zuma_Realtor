@@ -1,0 +1,5 @@
+features_id,bedrooms,squareFootage,features,bathrooms,owner
+0,0.0,0.0,{},0.0,unknown
+1,2.0,1032.0,{},2.0,unknown
+2,3.0,1714.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Gas Log', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached Garage', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.5,"{'names': ['TAMMY Z BELISARIO'], 'mailingAddress': {'id': '11990-Prairie-Ln,-Lusby,-MD-20657', 'addressLine1': '11990 Prairie Ln', 'city': 'Lusby', 'state': 'MD', 'zipCode': '20657'}}"
+3,3.0,1398.0,{},0.0,unknown
